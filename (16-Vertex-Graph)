@@ -1,0 +1,19 @@
+#C:\Users\shawa\anaconda3\Lib\site-packages\ipykernel_launcher.py -f C:\Users\shawa\AppData\Roaming\jupyter\runtime\kernel-a576ff6d-63cc-4822-802d-d1f30a5ab7db.json
+# GMT Wed Mar 27 14:27:01 2024
+# 
+0 1 2 3 4 5 9 10 11
+1 2 3 4 5 7 11 13 14 15
+2 3 4 5 6 9 13 14
+3 4 5 6 8 10 11 13 14
+4 5 9 13
+5 9 12
+9 10 11 13
+10 6 7 12 14 15
+11 8 13 14 15
+7 15
+13 6 12 14 15
+14 6 8 12
+15 6 12
+6 8 12
+8 12
+12
